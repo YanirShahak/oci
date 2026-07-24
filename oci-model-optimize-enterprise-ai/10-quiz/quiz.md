@@ -4,7 +4,7 @@
 
 Use this scored quiz to review the Example Motors support agent flow.
 
-Estimated Time: 5 minutes
+Estimated Time: 5 minutes 
 
 ### Objectives
 
